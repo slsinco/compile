@@ -20,4 +20,3 @@ If you want to compile a C++ source file use the following syntax:</br>
 ```
 compile -cpp myfile.cpp
 ```
-
